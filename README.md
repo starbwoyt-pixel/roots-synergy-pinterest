@@ -1,2 +1,2 @@
 # roots-synergy-pinterest
-Pins
+Pins/

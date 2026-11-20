@@ -1,0 +1,15 @@
+The settings in the Book Bolt Studio you picked are below, and the same must be used on KDP when creating your book
+
+Create a book section:
+PAPERBACK
+
+Step 2 of 3 - Paperback Content under Print Options:
+
+BLACK AND WHITE INTERIOR WITH WHITE PAPER
+8.5 X 8.5
+NO BLEED
+
+AI-Generated Content:
+IMAGES: BookBolt
+
+Your project contains AI generated images and/or text and has the potential for inaccuracies or display characters that could be similar to others that may or may not be copyright and trademarked. It is your sole responsibility to check these as Book Bolt assumes no liability, harm or consequences resulting from the use of the images/text you created inside of the Book Bolt Studio.
